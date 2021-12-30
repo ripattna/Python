@@ -11,4 +11,4 @@ def addNumbers(num1, num2):
         print('THE END... ')
 
 
-addNumbers(5,'a')
+addNumbers(5,6)
