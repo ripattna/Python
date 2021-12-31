@@ -3,7 +3,7 @@ import matplotlib
 import matplotlib.pylab as plt
 
 # Read dataset and store into DataFrame
-cars = pd.read_csv("C:\\Project\\Files\\Input\\csv\\cars.csv")
+cars = pd.read_csv("resources//cars.csv")
 '''Printing the car data set
 print("The hard of Car Dataset:'\n' ", + cars.head(),"'\n'","The tail of car Dataset:'\n'", +  cars.tail())
 #Converting the data type of mpg to string'''
